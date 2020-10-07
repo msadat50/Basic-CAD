@@ -37,12 +37,17 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## Mount
 
 ### Description
+The second assignment was the Mount i had trouble making the holes but Mr. H's help me out.
 
 ### Evidence
-
-### Image
+[The Mount in onshape](https://cvilleschools.onshape.com/documents/aa606e756544aee723402628/w/3e0727ce1a2b8dadfbf56f4f/e/009e27c6cc3142c2b949009c)
 
 ### Reflection
+This was the second assignment was eazy but i had some trouble making the holes i join the officer house and the Mr.H help me making the hole.
+I learned about
+* I learn how to make holes
+* I learn how to cut and extrude
+* I learned how to make a second part
 
 ---
 
@@ -50,12 +55,17 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## Fork
 
 ### Description
-
+The 3rd assignment was making a fork it was eazy.
 ### Evidence
-
-### Image
+[The Fork in onshape](https://cvilleschools.onshape.com/documents/aa606e756544aee723402628/w/3e0727ce1a2b8dadfbf56f4f/e/ed18c8482701bdb8598b787f)
 
 ### Reflection
+This is the 3rd assignment i was eazy i didn't had trouble makeing it.
+This was my 3rd Onshape part and [following along with Dr. Shields made it super easy.](https://youtu.be/wQlTfOw8rYQ)
+I learned about
+* I learn how to mirror
+* I learn how to fillet the side of the fork
+* I learn how to rename assignments
 
 ---
 
@@ -63,25 +73,33 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## Tire
 
 ### Description
+This was the 4th assignment making a tire by using the revolve tool
 
 ### Evidence
-
-### Image
+[The Trie in onshape](https://cvilleschools.onshape.com/documents/aa606e756544aee723402628/w/3e0727ce1a2b8dadfbf56f4f/e/442d20cf14bfe131c1e23be0)
 
 ### Reflection
-
+This assignment was really easy. i got it done faster than other assignments.
+ [following along with Dr. Shields made it super easy.](https://youtu.be/ReEGioIYSus)
+ I learned about
+ * I learn how to Revolve
+ * I learn how to hide my sketchs.
 ---
 
 
 ## Wheel
 
 ### Description
-
+This was the 5th assignment it was a bit hard not really.
 ### Evidence
-
-### Image
+[The wheel in onshape](https://cvilleschools.onshape.com/documents/aa606e756544aee723402628/w/3e0727ce1a2b8dadfbf56f4f/e/36a390e8e658c33f12b2a157)
 
 ### Reflection
+In this assignment i had trouble making it. i was trying to find my mistake in there I delete the design and re started it by watching the Dr. shields video.
+[following along with Dr. Shields made it super easy.](https://youtu.be/RKeALFyqSGw)
+I learned about 
+* I learn how to Circular pattern 
+* I learn how to fillet the sides at the same time.
 
 ---
 
@@ -89,11 +107,16 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## AxleCollarBearings
 
 ### Description
+This assignment was eazy i kind of had trouble making the Mirror
 
 ### Evidence
-
-### Image
+[The AxlecollarBearings](https://cvilleschools.onshape.com/documents/aa606e756544aee723402628/w/3e0727ce1a2b8dadfbf56f4f/e/2a53a4b9bfadb689f179e2cd)
 
 ### Reflection
+In this assignment i had trouble doing the Mirror i I kept clicking the wrong side. i went back to the video and watch it carefully and then i did it.
+[following along with Dr. Shields made it super easy.](https://youtu.be/2r7YqGuF1vY)
+I learned about
+* I learn how to symmetric
+* I learn how to coincided
 
 ---
