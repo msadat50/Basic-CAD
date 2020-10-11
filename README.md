@@ -19,6 +19,12 @@ We are creating a caster.
 The first assignment is to create the caster base. in the beginning i had some struggling but i figure it out
 ### Evidence
 [The Base in Onshape](https://cvilleschools.onshape.com/documents/0d70f655203ca304cb3c5b7d/w/f55603f962f6fc74f5548a68/e/41d730c570a8d75fce9f51b6)
+### Image
+This is how you will write image code for INTERNALLY STORED images on your repo.   just FYI.
+~~~
+<img src="images/Base.jpg" alt="The Base" width="200">
+~~~
+<img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpg" width="100">
 
 ### Reflection
 
