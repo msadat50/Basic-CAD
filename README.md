@@ -24,7 +24,7 @@ This is how you will write image code for INTERNALLY STORED images on your repo.
 ~~~
 <img src="images/Base.jpg" alt="The Base" width="200">
 ~~~
-<img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpg" width="100">
+<img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpg" width="400">
 
 ### Reflection
 
