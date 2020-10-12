@@ -26,6 +26,7 @@ This is how you will write image code for INTERNALLY STORED images on your repo.
 ~~~
 <img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpg" width="400">
 
+
 ### Reflection
 
 This was my first Onshape part and [following along with Dr. Shields made it super easy.](https://www.youtube.com/watch?v=93BFUD-HAG8&feature=emb_title&scrlybrkr=5670f0b4)  I learned about 
@@ -46,7 +47,9 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 The second assignment was the Mount i had trouble making the holes but Mr. H's help me out.
 
 ### Evidence
-[The Mount in onshape](https://cvilleschools.onshape.com/documents/aa606e756544aee723402628/w/3e0727ce1a2b8dadfbf56f4f/e/009e27c6cc3142c2b949009c)
+![The Mount in onshape](https://cvilleschools.onshape.com/documents/aa606e756544aee723402628/w/3e0727ce1a2b8dadfbf56f4f/e/009e27c6cc3142c2b949009c)
+
+<img src="https://github.com/msadat50/Basic-CAD/blob/main/Images/Base%20Mount.png?raw=true">
 
 ### Reflection
 This was the second assignment was eazy but i had some trouble making the holes i join the officer house and the Mr.H help me making the hole.
@@ -64,6 +67,8 @@ I learned about
 The 3rd assignment was making a fork it was eazy.
 ### Evidence
 [The Fork in onshape](https://cvilleschools.onshape.com/documents/aa606e756544aee723402628/w/3e0727ce1a2b8dadfbf56f4f/e/ed18c8482701bdb8598b787f)
+
+<img src="https://github.com/msadat50/Basic-CAD/blob/main/Images/fork.png?raw=true">
 
 ### Reflection
 This is the 3rd assignment i was eazy i didn't had trouble makeing it.
@@ -84,6 +89,8 @@ This was the 4th assignment making a tire by using the revolve tool
 ### Evidence
 [The Trie in onshape](https://cvilleschools.onshape.com/documents/aa606e756544aee723402628/w/3e0727ce1a2b8dadfbf56f4f/e/442d20cf14bfe131c1e23be0)
 
+<img src="https://github.com/msadat50/Basic-CAD/blob/main/Images/Tire.png?raw=true">
+
 ### Reflection
 This assignment was really easy. i got it done faster than other assignments.
  [following along with Dr. Shields made it super easy.](https://youtu.be/ReEGioIYSus)
@@ -99,6 +106,8 @@ This assignment was really easy. i got it done faster than other assignments.
 This was the 5th assignment it was a bit hard not really.
 ### Evidence
 [The wheel in onshape](https://cvilleschools.onshape.com/documents/aa606e756544aee723402628/w/3e0727ce1a2b8dadfbf56f4f/e/36a390e8e658c33f12b2a157)
+
+<img src="https://github.com/msadat50/Basic-CAD/blob/main/Images/wheel.png?raw=true">
 
 ### Reflection
 In this assignment i had trouble making it. i was trying to find my mistake in there I delete the design and re started it by watching the Dr. shields video.
@@ -118,11 +127,33 @@ This assignment was eazy i kind of had trouble making the Mirror
 ### Evidence
 [The AxlecollarBearings](https://cvilleschools.onshape.com/documents/aa606e756544aee723402628/w/3e0727ce1a2b8dadfbf56f4f/e/2a53a4b9bfadb689f179e2cd)
 
+<img src="https://github.com/msadat50/Basic-CAD/blob/main/Images/Axle,Collar,Bearings.png?raw=true">
+
 ### Reflection
 In this assignment i had trouble doing the Mirror i I kept clicking the wrong side. i went back to the video and watch it carefully and then i did it.
 [following along with Dr. Shields made it super easy.](https://youtu.be/2r7YqGuF1vY)
 I learned about
 * I learn how to symmetric
 * I learn how to coincided
+
+---
+
+
+### final assembly
+
+### Description
+This assignment was so confusing.
+
+### Evidence
+[The finall assembly](https://cvilleschools.onshape.com/documents/aa606e756544aee723402628/w/3e0727ce1a2b8dadfbf56f4f/e/b94c00e5886f76f554686c46)
+
+<img src="https://github.com/msadat50/Basic-CAD/blob/main/Images/final%20assembly%20.png?raw=true">
+
+### Reflection
+This assignment was so confusing, i couldn't figure it out which part or which mate i did wrong. Mr. H help me figuring it out the things that i had done wrong. it was really confusing but we did. 
+[following along with Dr. Shields made it easy.](https://youtu.be/orcp-asikM4)
+I learned about
+* doing my mates correctly
+* how to put a nut and screw
 
 ---
