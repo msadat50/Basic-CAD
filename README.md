@@ -11,6 +11,8 @@ We are creating a caster.
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
+* [Sub-Assembly](#Sub-Assembly)
+* [Final Caster Assembly](#Final Caster Assembly)
 
 ## Base
 
@@ -139,13 +141,29 @@ I learned about
 ---
 
 
-### final assembly
+### Sub-Assembly
+
+### Description
+This assignment was super easy.
+
+### Evidence
+[The sub assembly](https://cvilleschools.onshape.com/documents/aa606e756544aee723402628/w/3e0727ce1a2b8dadfbf56f4f/e/0e63fd063f0bba9af8731dad)
+
+<img src="https://github.com/msadat50/Basic-CAD/blob/main/Images/wheel%20assembly.png?raw=true">
+
+### Reflection
+This assignment was really easy i didn't had trouble making it, i had some mate that cause trouble for the final caster assembly but thanks to Mr. H he help me fix it.
+[following along with Dr. Shields made it easy.](https://youtu.be/orcp-asikM4)
+
+---
+
+### Final Caster Assembly
 
 ### Description
 This assignment was so confusing.
 
 ### Evidence
-[The finall assembly](https://cvilleschools.onshape.com/documents/aa606e756544aee723402628/w/3e0727ce1a2b8dadfbf56f4f/e/b94c00e5886f76f554686c46)
+[The final caster assembly](https://cvilleschools.onshape.com/documents/aa606e756544aee723402628/w/3e0727ce1a2b8dadfbf56f4f/e/b94c00e5886f76f554686c46)
 
 <img src="https://github.com/msadat50/Basic-CAD/blob/main/Images/final%20assembly%20.png?raw=true">
 
