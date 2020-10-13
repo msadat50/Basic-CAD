@@ -12,7 +12,7 @@ We are creating a caster.
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
 * [Sub-Assembly](#Sub-Assembly)
-* [Final Caster Assembly](#Final Caster Assembly)
+* [Final Caster Assembly](#Final-CasterAssembly)
 
 ## Base
 
