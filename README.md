@@ -13,6 +13,7 @@ We are creating a caster.
 * [AxleCollarBearings](#AxleCollarBearings)
 * [Sub-Assembly](#Sub-Assembly)
 * [Final Caster Assembly](#Final-CasterAssembly)
+* [Dorothy's Dowel Pins](#Dorothy's-DowelPins)
 
 ## Base
 
@@ -175,3 +176,20 @@ I learned about
 * how to put a nut and screw
 
 ---
+
+### Dorothy's Dowel Pins
+
+### Description
+This assignment was easy but at the end it was a bit confusing
+
+### Evidence
+[Dorothy's Dowel Pins](https://cvilleschools.onshape.com/documents/618c8bd48b633d61c4712aaf/w/e44e09020c907e14477fda5c/e/54069d5687be8a0cd2cee1db)
+
+<img src="https://github.com/msadat50/Basic-CAD/blob/main/Images/dowel%20pin%20.png?raw=true">
+
+### Reflection
+This assignment was eazy but it was abit cinfusing at the end
+[following along with Mr. Dierolf made it super easy]
+I learn about
+* I learn how to make a Configurations
+
