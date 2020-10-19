@@ -14,6 +14,8 @@ We are creating a caster.
 * [Sub-Assembly](#Sub-Assembly)
 * [Final Caster Assembly](#Final-CasterAssembly)
 * [Dorothy's Dowel Pins](#Dorothy's-DowelPins)
+* [Pciture frame](#picture-frame)
+* [Final picture frame Assembly](#final-picture-frameAssembly)
 
 ## Base
 
@@ -189,7 +191,48 @@ This assignment was easy but at the end it was a bit confusing
 
 ### Reflection
 This assignment was eazy but it was abit cinfusing at the end
-[following along with Mr. Dierolf made it super easy]
+following along with Mr. Dierolf made it super easy
 I learn about
 * I learn how to make a Configurations
+
+---
+
+### picture frame
+
+### Description
+This assignment was easy i didn't had trouble making it.
+
+### Evidence
+[Picture frame](https://cvilleschools.onshape.com/documents/618c8bd48b633d61c4712aaf/w/e44e09020c907e14477fda5c/e/f584ccc30f6ebcca2b5667ee?configuration=List_UORQ00oEDVGZU2%3DDefault)
+
+<img src="https://github.com/msadat50/Basic-CAD/blob/main/Images/picture%20frame.png?raw=true">
+
+### Reflection
+This assignemnt was good
+following along with Mr. Dierolf made it super easy
+I learned about
+* I learn how to make a frame
+
+---
+
+### Final picture frame Assembly
+
+### Description
+This assignment was eazy but it was so confusing
+
+### Evidence
+[final picture frame assembly](https://cvilleschools.onshape.com/documents/618c8bd48b633d61c4712aaf/w/e44e09020c907e14477fda5c/e/d410db24a930eb86c79b6036)
+
+<img src="https://github.com/msadat50/Basic-CAD/blob/main/Images/final%20Picture%20Frame%20Assembly.png?raw=true">
+
+### Reflection
+This assignment was really confusing we were tryping to copy the configuration and paste it on the other part Studio in onshape,and my sketch wasn't fully defined so we add it some dimension to it but me and Mr. H's figure it out and we finshed it
+following along with Mr. Dierolf made it easy but the last part was so confusing  because he didn't show how he did this sketch and we had troubleing doing the last part
+I leaned about
+* I learn how to assemble all the parts
+* I learnhow to generator dowel pin in different sizes
+
+---
+
+
 
