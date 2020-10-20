@@ -15,7 +15,7 @@ We are creating a caster.
 * [Final Caster Assembly](#Final-CasterAssembly)
 * [Dorothy's Dowel Pins](#Dorothy's-DowelPins)
 * [Pciture frame](#picture-frame)
-* [Final picture frame Assembly](#final-picture-frameAssembly)
+* [Final picture frame Assembly](#Final-picture-frameAssembly)
 
 ## Base
 
@@ -144,7 +144,7 @@ I learned about
 ---
 
 
-### Sub-Assembly
+## Sub-Assembly
 
 ### Description
 This assignment was super easy.
@@ -160,7 +160,7 @@ This assignment was really easy i didn't had trouble making it, i had some mate 
 
 ---
 
-### Final Caster Assembly
+## Final Caster Assembly
 
 ### Description
 This assignment was so confusing.
@@ -179,7 +179,7 @@ I learned about
 
 ---
 
-### Dorothy's Dowel Pins
+## Dorothy's Dowel Pins
 
 ### Description
 This assignment was easy but at the end it was a bit confusing
@@ -197,7 +197,7 @@ I learn about
 
 ---
 
-### picture frame
+## picture frame
 
 ### Description
 This assignment was easy i didn't had trouble making it.
@@ -215,7 +215,7 @@ I learned about
 
 ---
 
-### Final picture frame Assembly
+## Final picture frame Assembly
 
 ### Description
 This assignment was eazy but it was so confusing
