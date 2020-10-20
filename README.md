@@ -12,10 +12,10 @@ We are creating a caster.
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
 * [Sub-Assembly](#Sub-Assembly)
-* [Final Caster Assembly](#Final-CasterAssembly)
+* [Final Caster Assembly](#Final-Caster-Assembly)
 * [Dorothy's Dowel Pins](#Dorothy's-DowelPins)
 * [Pciture frame](#picture-frame)
-* [Final picture frame Assembly](#Final-picture-frameAssembly)
+* [Final picture frame Assembly](#Final-picture-frame-Assembly)
 
 ## Base
 
