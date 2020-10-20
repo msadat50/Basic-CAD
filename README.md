@@ -13,7 +13,7 @@ We are creating a caster.
 * [AxleCollarBearings](#AxleCollarBearings)
 * [Sub-Assembly](#Sub-Assembly)
 * [Final Caster Assembly](#Final-Caster-Assembly)
-* [Dorothy's Dowel Pins](#Dorothy's-DowelPins)
+* [Dorothy's Dowel Pins](#Dorothy's-Dowel-Pins)
 * [Pciture frame](#picture-frame)
 * [Final picture frame Assembly](#Final-picture-frame-Assembly)
 
@@ -190,7 +190,7 @@ This assignment was easy but at the end it was a bit confusing
 <img src="https://github.com/msadat50/Basic-CAD/blob/main/Images/dowel%20pin%20.png?raw=true">
 
 ### Reflection
-This assignment was eazy but it was abit cinfusing at the end
+This assignment was eazy but it was a bit confusing at the end, i had trouble making the configuration i didn't know how to make a configurtion on the other part studio in onshape. i watch the video again and i saw that Mr.Dierolf changes the color of dowel pin, and that's how you can make configuration table by changing the color.
 following along with Mr. Dierolf made it super easy
 I learn about
 * I learn how to make a Configurations
@@ -224,14 +224,15 @@ This assignment was eazy but it was so confusing
 [final picture frame assembly](https://cvilleschools.onshape.com/documents/618c8bd48b633d61c4712aaf/w/e44e09020c907e14477fda5c/e/d410db24a930eb86c79b6036)
 
 <img src="https://github.com/msadat50/Basic-CAD/blob/main/Images/final%20Picture%20Frame%20Assembly.png?raw=true">
+<img src="https://github.com/msadat50/Basic-CAD/blob/main/Images/%20Picture%20Frame%20in%20different%20look.png?raw=true">
 
 ### Reflection
 This assignment was really confusing we were tryping to copy the configuration and paste it on the other part Studio in onshape,and my sketch wasn't fully defined so we add it some dimension to it but me and Mr. H's figure it out and we finshed it
 following along with Mr. Dierolf made it easy but the last part was so confusing  because he didn't show how he did this sketch and we had troubleing doing the last part
 I leaned about
 * I learn how to assemble all the parts
-* I learnhow to generator dowel pin in different sizes
-
+* I learn how to generator dowel pin in different sizes
+* I learn that i should check things before doing them
 ---
 
 
