@@ -57,7 +57,7 @@ The second assignment was the Mount i had trouble making the holes but Mr. H's h
 <img src="https://github.com/msadat50/Basic-CAD/blob/main/Images/Base%20Mount.png?raw=true">
 
 ### Reflection
-This was the second assignment was eazy but i had some trouble making the holes i join the officer house and the Mr.H help me making the hole.
+This was the second assignment it was eazy but i had some trouble making the holes on Linear pattern, when i was doing the holes it was going to the left it supposed to go to the right.and than i join the officer house. me and Mr.H look through the problem and he said look at the arrow he said that the arrow was down and when i flip the arrow  up then the holes was where it support to be.
 I learned about
 * I learn how to make holes
 * I learn how to cut and extrude
@@ -115,7 +115,7 @@ This was the 5th assignment it was a bit hard not really.
 <img src="https://github.com/msadat50/Basic-CAD/blob/main/Images/wheel.png?raw=true">
 
 ### Reflection
-In this assignment i had trouble making it. i was trying to find my mistake in there I delete the design and re started it by watching the Dr. shields video.
+In this assignment i had trouble making the dimension. i was keep clicking the wrong age. i was trying to find my mistake in there I delete the dimension and re started it by watching the Dr. shields video.
 [following along with Dr. Shields made it super easy.](https://youtu.be/RKeALFyqSGw)
 I learned about 
 * I learn how to Circular pattern 
