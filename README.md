@@ -16,6 +16,7 @@ We are creating a caster.
 * [Dorothy's Dowel Pins](#Dorothy's-Dowel-Pins)
 * [Pciture frame](#picture-frame)
 * [Final picture frame Assembly](#Final-picture-frame-Assembly)
+* [Collaboration challenge](#Collaboration-challenge)
 
 ## Base
 
@@ -227,13 +228,32 @@ This assignment was eazy but it was so confusing
 <img src="https://github.com/msadat50/Basic-CAD/blob/main/Images/%20Picture%20Frame%20in%20different%20look.png?raw=true">
 
 ### Reflection
-This assignment was really confusing we were tryping to copy the configuration and paste it on the other part Studio in onshape,and my sketch wasn't fully defined so we add it some dimension to it but me and Mr. H's figure it out and we finshed it
+This assignment was really confusing we were tryping to copy the configuration and paste it on the other part Studio in onshape, when we did it it didn't work.and my sketch wasn't fully defined so we add it some dimension to it but me and Mr. H's figure it out and we finshed it
 following along with Mr. Dierolf made it easy but the last part was so confusing  because he didn't show how he did this sketch and we had troubleing doing the last part
 I leaned about
 * I learn how to assemble all the parts
 * I learn how to generator dowel pin in different sizes
 * I learn that i should check things before doing them
 ---
+
+## Collaboration challenge 
+
+### Description
+This assignment was eazy me and my team didn't had troule making it and we divied the work
+
+### Evidence
+[Collaboration challenge](
+
+<img src="https://github.com/msadat50/Basic-CAD/blob/main/Images/based%232.png?raw=true">
+<img src="https://github.com/msadat50/Basic-CAD/blob/main/Images/the%20based.png?raw=true">
+<img src="https://github.com/msadat50/Basic-CAD/blob/main/Images/stick.png?raw=true">
+<img src=" https://github.com/msadat50/Basic-CAD/blob/main/Images/finall%20assembly.png?raw=true">
+<img src="https://github.com/msadat50/Basic-CAD/blob/main/Images/finall.png?raw=true">
+
+### Reflection
+doing this assigment was really fun. we didn;t had trouble making it and eazy and cool.
+I leaned about
+* I learn how put them all together
 
 
 
