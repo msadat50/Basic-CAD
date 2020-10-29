@@ -249,7 +249,7 @@ This assignment was eazy me and my team didn't had troule making it and we divie
 <img src="https://github.com/msadat50/Basic-CAD/blob/main/Images/stick.png?raw=true">
 <img src=" https://github.com/msadat50/Basic-CAD/blob/main/Images/finall%20assembly.png?raw=true">
 <img src="https://github.com/msadat50/Basic-CAD/blob/main/Images/finall.png?raw=true">
-
+<img src="https://github.com/msadat50/Basic-CAD/blob/main/Images/finall%20assembly.png?raw=true">
 ### Reflection
 doing this assigment was really fun. we didn;t had trouble making it and eazy and cool.
 I leaned about
